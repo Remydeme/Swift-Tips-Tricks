@@ -15,7 +15,7 @@ ref :
 # How to implement a document picker in your app ? 
 
 ref : 
-Apple developper tutorial :
+Apple developer tutorial :
 
 https://developer.apple.com/documentation/uikit/view_controllers/providing_access_to_directories
 
