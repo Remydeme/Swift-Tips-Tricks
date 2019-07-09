@@ -15,4 +15,9 @@ ref :
 # How to implement a document picker in your app ? 
 
 ref : 
+
+deprecated but useful : 
+
 https://stackoverflow.com/questions/37296929/implement-document-picker-in-swift-ios
+
+https://developer.apple.com/documentation/uikit/uidocumentpickerviewcontroller
