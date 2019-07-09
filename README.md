@@ -26,3 +26,6 @@ deprecated but useful :
 https://stackoverflow.com/questions/37296929/implement-document-picker-in-swift-ios
 
 
+# Write or read a string to file : 
+
+https://stackoverflow.com/questions/24097826/read-and-write-a-string-from-text-file
