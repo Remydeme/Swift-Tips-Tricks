@@ -35,3 +35,7 @@ https://stackoverflow.com/questions/24097826/read-and-write-a-string-from-text-f
 # How to connect to instal tape on output node : 
 
 https://stackoverflow.com/questions/42821953/installtaponbus-for-output-signal
+
+# Update the system output volume :
+
+https://stackoverflow.com/questions/50737943/how-to-change-volume-programmatically-on-ios-11-4
