@@ -39,3 +39,8 @@ https://stackoverflow.com/questions/42821953/installtaponbus-for-output-signal
 # Update the system output volume :
 
 https://stackoverflow.com/questions/50737943/how-to-change-volume-programmatically-on-ios-11-4
+
+
+# How to localize your iOS app ? (Swift 5.1)  2019
+
+[ref] : https://www.hackingwithswift.com/example-code/uikit/how-to-localize-your-ios-app
